@@ -41,15 +41,15 @@ O objetivo geral é desenvolver um projeto que utilize técnicas de Machine Lear
 ```
 .
 ├── data/
-│   ├── dataset_bruto.csv       # Dados originais coletados
-│   └── dados_limpos.csv        # Dados após o pré-processamento
+│   ├── dataset_bruto.csv       # Os dados de comentários do Reddit usados no treinamento.
+│   └── dados_limpos.csv        # Dados após limpeza e pré-processamento (gerado pelo notebook).
 ├── saved_models/
-│   └── modelo_sentimento.joblib # Modelo treinado e salvo
+│   └── modelo_sentimento.joblib # O pipeline de ML treinado (TF-IDF + LR).
 ├── notebooks/
-│   └── Desenvolvimento_Analise_Sentimentos.ipynb # Notebook com todo o processo de ML
-├── app.py                      # Script principal da aplicação com Streamlit
-├── requirements.txt            # Lista de dependências do projeto
-└── README.md                   # Este arquivo
+│   └── Desenvolvimento_Analise_Sentimentos.ipynb # Notebook com todo o processo de ML.
+├── app.py                      # Script principal da aplicação com Streamlit.
+├── requirements.txt            # Lista de dependências exatas do projeto.
+└── README.md                   # Este arquivo.
 ```
 
 ## ▶️ Como Executar o Projeto Localmente
@@ -87,4 +87,4 @@ Para executar o painel interativo na sua máquina, siga os passos abaixo:
 
 ## 📊 Status do Projeto
 
-**Em desenvolvimento** para a Campus Party Weekend Piauí 2025.
+**COMPLETO** e pronto para apresentação na Campus Party Weekend Piauí 2025.
