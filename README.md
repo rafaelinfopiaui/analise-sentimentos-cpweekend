@@ -1,4 +1,4 @@
-# 🚀 Análise de Sentimentos em Redes Sociais - Campus Party Weekend Piauí 2025
+# 🚀 Análise de Sentimentos - Campus Party Weekend Piauí 2025
 
 Este repositório contém o código e os recursos para o projeto de extensão "Análise de Sentimentos em Redes Sociais utilizando Machine Learning", desenvolvido para apresentação na **Campus Party Weekend Piauí 2025**.
 
